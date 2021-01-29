@@ -1,0 +1,114 @@
+2021-01-29 22:51:57,960 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949917.9281762, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:51:57,971 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611949917.9281762, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:51:57,972 DEBUG server.py Разбор сообщения от клиента : {'time': 1611949917.9281762, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:51:57,973 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:51:57,975 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949917.9281762}
+2021-01-29 22:51:57,978 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949917.9281762, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:52:12,597 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949932.5683508, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:52:12,599 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611949932.5683508, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:52:12,603 DEBUG server.py Разбор сообщения от клиента : {'time': 1611949932.5683508, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:52:12,604 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:52:12,605 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949932.5683508}
+2021-01-29 22:52:12,606 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611949932.5683508, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:54:04,092 INFO server.py Запущен сервер, порт для подключений: 7777, адрес, с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-01-29 22:54:10,933 INFO server.py Установлено соедение с ПК ('127.0.0.1', 50788)
+2021-01-29 22:54:10,934 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1611950050.9325836, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:54:10,934 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950050.9325836, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:54:10,934 INFO server.py Сформирован ответ клиенту {'response': 200}
+2021-01-29 22:54:10,934 DEBUG server.py Соединение с клиентом ('127.0.0.1', 50788) закрывается.
+2021-01-29 22:55:07,659 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950107.6364489, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:55:07,660 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950107.6364489, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:55:07,663 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950107.6364489, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:55:07,666 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:55:07,668 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950107.6364489}
+2021-01-29 22:55:07,669 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950107.6364489, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:56:37,298 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950197.283733, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:56:37,308 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950197.283733, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:56:37,309 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950197.283733, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:56:37,310 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:56:37,311 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950197.283733}
+2021-01-29 22:56:37,312 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950197.283733, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:57:20,401 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950240.388631, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:57:20,403 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950240.388631, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:57:20,404 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950240.388631, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:57:20,405 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:57:20,406 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950240.388631}
+2021-01-29 22:57:20,408 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950240.388631, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:03,162 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950283.1493185, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:58:03,163 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950283.1493185, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:03,164 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950283.1493185, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:03,165 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:03,167 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950283.1493185}
+2021-01-29 22:58:03,168 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950283.1493185, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:18,868 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950298.8530996, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:58:18,870 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950298.8530996, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:18,872 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950298.8530996, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:18,873 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:18,874 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950298.8530996}
+2021-01-29 22:58:18,875 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950298.8530996, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:54,899 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950334.884555, 'user': {'account_name': 'Not Guest'}}
+2021-01-29 22:58:54,901 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611950334.884555, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:54,902 DEBUG server.py Разбор сообщения от клиента : {'time': 1611950334.884555, 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:54,903 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-29 22:58:54,904 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950334.884555}
+2021-01-29 22:58:54,905 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611950334.884555, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:15:02,054 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611954902.025889, 'user': {'account_name': 'Not Guest'}}
+2021-01-30 00:15:02,129 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611954902.025889, 'user': {'account_name': 'Not Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_account_name_not_Guest
+2021-01-30 00:15:02,130 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611954902.025889, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:15:02,135 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'not presence', 'time': 1611954902.025889, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_action_not_presence
+2021-01-30 00:15:02,136 DEBUG server.py Разбор сообщения от клиента : {'time': 1611954902.025889, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:15:02,142 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'time': 1611954902.025889, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_action
+2021-01-30 00:15:02,143 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-30 00:15:02,148 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_time
+2021-01-30 00:15:02,148 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611954902.025889}
+2021-01-30 00:15:02,154 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611954902.025889},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_user
+2021-01-30 00:15:02,155 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611954902.025889, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:15:02,160 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611954902.025889, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_ok
+2021-01-30 00:17:36,511 DEBUG decos.py Была вызвана функция create_new_presence c параметрами (), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции TestClient
+2021-01-30 00:17:36,538 DEBUG decos.py Была вызвана функция process_answer c параметрами ({'response': 200},), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_answer_res_200
+2021-01-30 00:17:36,565 DEBUG decos.py Была вызвана функция process_answer c параметрами ({'response': 400, 'error': 'Bad Request'},), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_answer_res_400
+2021-01-30 00:17:36,573 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Not Guest'}}
+2021-01-30 00:17:36,616 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Not Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_account_name_not_Guest
+2021-01-30 00:17:36,620 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:17:36,635 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'not presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_action_not_presence
+2021-01-30 00:17:36,636 DEBUG server.py Разбор сообщения от клиента : {'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:17:36,646 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_action
+2021-01-30 00:17:36,648 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-30 00:17:36,656 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_time
+2021-01-30 00:17:36,657 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955056.5161233}
+2021-01-30 00:17:36,669 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955056.5161233},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_user
+2021-01-30 00:17:36,671 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:17:36,681 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955056.5161233, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_ok
+2021-01-30 00:17:36,689 DEBUG decos.py Была вызвана функция get_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x00000267DE28E1F0>,), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_get_message
+2021-01-30 00:17:36,694 DEBUG decos.py Была вызвана функция get_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x00000267DE28E280>,), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_get_message
+2021-01-30 00:17:36,700 DEBUG decos.py Была вызвана функция send_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x00000267DE28E1F0>, {'action': 'presence', 'time': 111111.111111, 'user': {'account_name': 'test_test'}}), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_send_message
+2021-01-30 00:18:35,573 INFO server.py Запущен сервер, порт для подключений: 7777, адрес, с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-01-30 00:18:39,084 INFO server.py Установлено соедение с ПК ('127.0.0.1', 52249)
+2021-01-30 00:18:39,087 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1611955119.0849416, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:18:39,088 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955119.0849416, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:18:39,089 INFO server.py Сформирован ответ клиенту {'response': 200}
+2021-01-30 00:18:39,091 DEBUG server.py Соединение с клиентом ('127.0.0.1', 52249) закрывается.
+2021-01-30 00:28:36,645 DEBUG decos.py Была вызвана функция create_new_presence c параметрами (), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции TestClient
+2021-01-30 00:28:36,669 DEBUG decos.py Была вызвана функция process_answer c параметрами ({'response': 200},), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_answer_res_200
+2021-01-30 00:28:36,676 DEBUG decos.py Была вызвана функция process_answer c параметрами ({'response': 400, 'error': 'Bad Request'},), {}. Вызов из модуля client. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_answer_res_400
+2021-01-30 00:28:36,679 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Not Guest'}}
+2021-01-30 00:28:36,688 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Not Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_account_name_not_Guest
+2021-01-30 00:28:36,689 DEBUG server.py Разбор сообщения от клиента : {'action': 'not presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:28:36,694 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'not presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_action_not_presence
+2021-01-30 00:28:36,696 DEBUG server.py Разбор сообщения от клиента : {'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:28:36,702 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_action
+2021-01-30 00:28:36,703 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'user': {'account_name': 'Guest'}}
+2021-01-30 00:28:36,709 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_time
+2021-01-30 00:28:36,709 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955716.6519496}
+2021-01-30 00:28:36,715 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955716.6519496},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_not_user
+2021-01-30 00:28:36,716 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:28:36,723 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955716.6519496, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля server. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_process_client_message_ok
+2021-01-30 00:28:36,730 DEBUG decos.py Была вызвана функция get_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x000002EE18FDF1F0>,), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_get_message
+2021-01-30 00:28:36,735 DEBUG decos.py Была вызвана функция get_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x000002EE18FDF280>,), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_get_message
+2021-01-30 00:28:36,741 DEBUG decos.py Была вызвана функция send_message c параметрами (<unit_tests.test_utils.TestSocket object at 0x000002EE18FDF1F0>, {'action': 'presence', 'time': 111111.111111, 'user': {'account_name': 'test_test'}}), {}. Вызов из модуля common.utils. Вызов из функции JB_DISABLE_BUFFERING)).Вызов из функции test_send_message
+2021-01-30 00:45:02,174 INFO server.py Запущен сервер, порт для подключений: 7777, адрес, с которого принимаются подключения: . Если адрес не указан, принимаются соединения с любых адресов.
+2021-01-30 00:45:06,756 INFO server.py Установлено соедение с ПК ('127.0.0.1', 52325)
+2021-01-30 00:45:06,758 DEBUG server.py Получено сообщение {'action': 'presence', 'time': 1611956706.7569263, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:45:06,758 DEBUG server.py Разбор сообщения от клиента : {'action': 'presence', 'time': 1611956706.7569263, 'user': {'account_name': 'Guest'}}
+2021-01-30 00:45:06,759 INFO server.py Сформирован ответ клиенту {'response': 200}
+2021-01-30 00:45:06,761 DEBUG server.py Соединение с клиентом ('127.0.0.1', 52325) закрывается.

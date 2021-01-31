@@ -47,6 +47,7 @@ def main():
     """Загрузка параметров командной строки, если нет параметров, то задаём значения по умоланию"""
     # server.py -p 8079 -a 192.168.1.2
     parser = create_arg_parser()
+    # parser.parse_args(sys.argv[1:]) 0 это имя файла, по этому берём все, которые после:
     namespace = parser.parse_args(sys.argv[1:])
     serv_listen_address = namespace.a
     serv_listen_port = namespace.p

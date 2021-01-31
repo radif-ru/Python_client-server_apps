@@ -61,6 +61,7 @@ def main():
     """Загружаем параметы коммандной строки"""
     # client.py 192.168.1.2 8079
     parser = create_arg_parser()
+    # parser.parse_args(sys.argv[1:]) 0 это имя файла, по этому берём все, которые после:
     namespace = parser.parse_args(sys.argv[1:])
     server_addr = namespace.addr
     server_port = namespace.port

@@ -1,0 +1,71 @@
+2021-01-29 22:51:57,909 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:51:57,943 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:51:57,945 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:51:57,946 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:52:12,555 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:52:12,581 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:52:12,582 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:52:12,585 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:54:10,929 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-01-29 22:54:10,932 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:54:10,934 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:54:10,935 INFO client.py Принят ответ от сервера 200 : OK
+2021-01-29 22:55:07,628 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:55:07,650 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:55:07,651 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:55:07,652 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:56:37,275 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:56:37,291 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:56:37,292 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:56:37,294 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:57:20,381 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:57:20,395 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:57:20,396 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:57:20,396 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:58:03,143 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:58:03,156 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:58:03,157 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:58:03,157 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:58:18,846 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:58:18,862 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:58:18,863 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:58:18,863 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-29 22:58:54,877 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-29 22:58:54,893 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-29 22:58:54,894 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-29 22:58:54,895 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-30 00:15:01,973 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-30 00:15:02,047 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-30 00:15:02,048 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-30 00:15:02,050 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-30 00:17:36,444 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-30 00:17:36,527 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-30 00:17:36,552 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-30 00:17:36,566 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-30 00:18:35,573 DEBUG decos.py Была вызвана функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,082 DEBUG decos.py Была вызвана функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,082 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-01-30 00:18:39,084 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-30 00:18:39,085 DEBUG decos.py Была вызвана функция create_new_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,087 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=372, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52249), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1611955119.0849416, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,089 DEBUG decos.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611955119.0849416, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,091 DEBUG decos.py Была вызвана функция send_message c параметрами (<socket.socket fd=308, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52249)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,091 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-30 00:18:39,092 DEBUG decos.py Была вызвана функция process_answer c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:18:39,092 INFO client.py Принят ответ от сервера 200 : OK
+2021-01-30 00:28:36,572 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-30 00:28:36,661 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-30 00:28:36,671 DEBUG client.py Разбор сообщения от сервера: {'response': 400, 'error': 'Bad Request'}
+2021-01-30 00:28:36,677 DEBUG client.py Разбор сообщения от сервера: {}
+2021-01-30 00:45:02,173 DEBUG server.py Была вызвана функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,754 DEBUG client.py Была вызвана функция create_arg_parser c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,754 INFO client.py Запущен клиент с парамертами: адрес сервера: 127.0.0.1, порт: 7777
+2021-01-30 00:45:06,756 DEBUG client.py Сформировано presence сообщение для пользователя Guest
+2021-01-30 00:45:06,757 DEBUG client.py Была вызвана функция create_new_presence c параметрами (), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,758 DEBUG client.py Была вызвана функция send_message c параметрами (<socket.socket fd=316, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52325), raddr=('127.0.0.1', 7777)>, {'action': 'presence', 'time': 1611956706.7569263, 'user': {'account_name': 'Guest'}}), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,759 DEBUG server.py Была вызвана функция process_client_message c параметрами ({'action': 'presence', 'time': 1611956706.7569263, 'user': {'account_name': 'Guest'}},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,760 DEBUG server.py Была вызвана функция send_message c параметрами (<socket.socket fd=440, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 7777), raddr=('127.0.0.1', 52325)>, {'response': 200}), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,761 DEBUG client.py Была вызвана функция get_message c параметрами (<socket.socket fd=316, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 52325), raddr=('127.0.0.1', 7777)>,), {}. Вызов из модуля common.utils. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,761 DEBUG client.py Разбор сообщения от сервера: {'response': 200}
+2021-01-30 00:45:06,762 DEBUG client.py Была вызвана функция process_answer c параметрами ({'response': 200},), {}. Вызов из модуля __main__. Вызов из функции main().Вызов из функции main
+2021-01-30 00:45:06,762 INFO client.py Принят ответ от сервера 200 : OK
